@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915136126968",
+    "project_id": "gittest-16294",
+    "storage_bucket": "gittest-16294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915136126968:android:e7e8b0ea193c9fb770800d",
+        "android_client_info": {
+          "package_name": "com.codempk.git_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915136126968-aurvnl2bcba65enlnkcv7ilo37pd478j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTr_rGKPwFAVnXgqZi40JnUO-Gs3saf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915136126968-aurvnl2bcba65enlnkcv7ilo37pd478j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
